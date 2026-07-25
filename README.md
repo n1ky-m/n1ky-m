@@ -21,8 +21,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&theme=transparent&title_color=FFA8CF&icon_color=FFA8CF&text_color=555555&border_color=FFE0EA&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=n1ky-m&background=00000000&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&border=FFE0EA&hide_border=false" width="48%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=0d1117&title_color=FFA8CF&icon_color=FFA8CF&text_color=e6e6e6&border_color=FFA8CF&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=n1ky-m&background=0d1117&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=999999&border=FFA8CF&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=n1ky-m&background=ffffff&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=999999&border=FFE0EA&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1ky-m&background=ffffff&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=999999&border=FFE0EA&hide_border=false" width="48%"/>
+</picture>
 
 </div>
 
