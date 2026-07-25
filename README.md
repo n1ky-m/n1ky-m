@@ -5,7 +5,7 @@
 - 🏆 2x hackathon winner (TAMUHack, UCSF QBI Hackathon)
 - 💬 Open to project ideas — feel free to reach out!
 
-## 💗 Tech Stack
+## 🌸 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFE0EA?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE0EA?style=for-the-badge&logo=javascript&logoColor=black)
