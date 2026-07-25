@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nikhila 👋
+# Hi, I'm Nikhila 
 ### Sophomore CS Major @ Texas A&M University
 
 </div>
