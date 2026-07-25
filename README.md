@@ -1,23 +1,9 @@
-<div align="center">
-
-# Hi, I'm Nikhila 
+# Hi, I'm Nikhila
 ### Sophomore CS Major @ Texas A&M University
 
-</div>
-
-## 🌸 About Me
-
-- 🎓 Sophomore studying **Computer Science** at **Texas A&M University**
-- 🤖 Passionate about **AI/ML** — always exploring new models, papers, and project ideas
-- 🏆 Won **TAMUHack** and the **UCSF QBI Hackathon**
-- 💬 Always down to talk about a cool project idea — feel free to reach out!
-
-## 🏆 Hackathon Wins
-
-| Event | Result |
-|---|---|
-| 🥇 TAMUHack | Winner |
-| 🥇 UCSF QBI Hackathon | Winner |
+- 🤖 Into **AI/ML** — always exploring new models, papers, and project ideas
+- 🏆 2x hackathon winner (TAMUHack, UCSF QBI Hackathon)
+- 💬 Open to project ideas — feel free to reach out!
 
 ## 💗 Tech Stack
 
@@ -38,15 +24,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&theme=transparent&title_color=FFA8CF&icon_color=FFA8CF&text_color=555555&border_color=FFE0EA&hide_border=false" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1ky-m&background=00000000&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&border=FFE0EA&hide_border=false" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ky-m&layout=compact&theme=transparent&title_color=FFA8CF&text_color=555555&border_color=FFE0EA&hide_border=false" width="48%"/>
-
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
+## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-FFE0EA?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nikhilamanikandan508@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE0EA?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-profile)
-
-</div>
