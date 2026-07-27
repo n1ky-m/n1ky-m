@@ -2,7 +2,7 @@
 ### Sophomore CS Major @ Texas A&M University
 
 - 🤖 Into **AI/ML** — always exploring new models, papers, and project ideas
-- 🏆 2x hackathon winner (TAMUHack, UCSF QBI Hackathon)
+- 🏆 3x hackathon winner (TAMUHack 2x, UCSF QBI Hackathon)
 - 💬 Open to project ideas — feel free to reach out!
 
 ## 🌸 Tech Stack
