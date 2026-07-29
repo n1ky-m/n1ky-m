@@ -1,9 +1,9 @@
 # Hi, I'm Nikhila
 ### Sophomore CS Major @ Texas A&M University
 
-- 🤖 Into **AI/ML** — always exploring new models, papers, and project ideas
+- 🤖 Into AI/ML, and Full-Stack Development 
 - 🏆 3x hackathon winner (TAMUHack 2x, UCSF QBI Hackathon)
-- 💬 Open to project ideas — feel free to reach out!
+- 💬 Open to project ideas!
 
 ## 🌸 Tech Stack
 
