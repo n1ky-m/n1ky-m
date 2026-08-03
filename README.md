@@ -23,9 +23,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=0d1117&title_color=FFA8CF&icon_color=FFA8CF&text_color=e6e6e6&border_color=FFA8CF&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false" width="48%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=0d1117&title_color=FFA8CF&icon_color=FFA8CF&text_color=e6e6e6&border_color=FFA8CF&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false">
+  <img src="https://github-stats-extended.vercel.app/api?username=n1ky-m&show_icons=true&bg_color=ffffff&title_color=FFA8CF&icon_color=FFA8CF&text_color=333333&border_color=FFE0EA&hide_border=false" width="48%"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=n1ky-m&background=0d1117&ring=FFA8CF&fire=FFA8CF&currStreakLabel=FFA8CF&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=999999&border=FFA8CF&hide_border=false">
